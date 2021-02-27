@@ -1,9 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 import 'bulma/css/bulma.css'
-
-import Layout from "../components/layout"
+// Components
 import SEO from "../components/seo"
+// Components
 
 const IndexPage = () => (
   <Layout>
