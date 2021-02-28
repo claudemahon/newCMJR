@@ -11,7 +11,7 @@ const IndexPage = () => (
   <>
    <Layout>
    <SEO title="CMJR Development Home"/>
-    <section className="hero is-fullheight-with-navbar bg-img">
+    <section className="hero is-fullheight bg-img">
      <div className="hero-body">
        <div className="container">
          <h1 className="title has-text-light">CMJR Development</h1>

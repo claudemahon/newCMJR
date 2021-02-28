@@ -1,16 +1,16 @@
 import React from 'react';
 import 'bulma/css/bulma.css';
 import {Link} from 'gatsby';
-const Header = () => {
+const Navbar = () => {
     return(
         <>
-        <nav className="navbar">
+        <nav className="navbar is-fixed-top">
             <div className="navbar-brand">
-                <Link to="#"> Home</Link>
+                <Link className="navbar-item"to="#">CMJR</Link>
             </div>
         </nav>
         </>
     )
 }
 
-export default Header
+export default Navbar

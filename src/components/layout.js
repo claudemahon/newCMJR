@@ -1,12 +1,12 @@
 import React from 'react'
 import 'bulma/css/bulma.css'
-import Header from './Header.js'
+import Navbar from './Navbar.js'
 import Footer from '../components/Footer'
 
 const Layout = ({children}) => {
   return(
     <>
-    <Header />
+    <Navbar />
     <div>{children}</div>
     <Footer />
     </>
