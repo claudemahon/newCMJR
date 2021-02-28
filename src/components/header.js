@@ -1,15 +1,16 @@
-// import { Link } from "gatsby"
-import react from 'react'
-import 'bulma/css/bulma.css'
-
-
-
+import React from 'react';
+import 'bulma/css/bulma.css';
+import {Link} from 'gatsby';
 const Header = () => {
-  return(
-    <>
-    
-    </>
-  )
+    return(
+        <>
+        <nav className="navbar">
+            <div className="navbar-brand">
+                <Link to="#"> Home</Link>
+            </div>
+        </nav>
+        </>
+    )
 }
 
 export default Header
