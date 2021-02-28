@@ -1,19 +1,23 @@
 import React from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 import 'bulma/css/bulma.css'
-// Components
+import './style.css'
+// Page Components
 import SEO from "../components/seo"
-// Components
+//Page Components
 
 const IndexPage = () => (
-  <Layout>
-    <SEO title="home" description="This is the home page"/>
-    <h1>Testing 123</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-  </Layout>
+  <>
+    <SEO title="CMJR Development Home"/>
+   <section className="hero is-fullheight bg-img">
+     <div className="hero-body">
+       <div className="container">
+         <h1 className="title">CMJR Development</h1>
+         <h2 className="subtitle ">Proudly Building Modern Website's Since 2015</h2>
+       </div>
+     </div>
+   </section>
+  </>
 )
 
 export default IndexPage
