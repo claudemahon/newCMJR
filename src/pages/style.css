@@ -1,7 +1,10 @@
 .bg-img {
-    background-image: url('../images/compressed.jpg');
+    background: linear-gradient(0deg, #000000b9 30%, #ffffff44 100%), url('../images/min-original.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.title{
+    padding-bottom: 20px;
 }

@@ -14,16 +14,16 @@ const IndexPage = () => (
     <section className="hero is-fullheight bg-img">
      <div className="hero-body">
        <div className="container">
-         <h1 className="title has-text-light">CMJR Development</h1>
-         <h2 className="subtitle has-text-light ">Proudly Building Modern Website's Since 2015</h2>
+         {/* <h1 className="title has-text-light">Agramith</h1> */}
+         <h2 className="subtitle has-text-light ">Making Contracts Great Again</h2>
        </div>
      </div>
    </section>
 
    <section className="section is-large">
      <div className="body">
-       <h1 className="title">testing 123</h1>
-       <h2 className="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem reprehenderit odit sed labore fuga eum nam dicta quisquam incidunt accusantium, delectus dolore laborum itaque dolorum voluptates illum perferendis ab similique! Iusto saepe ipsam corporis quidem perferendis hic similique recusandae vel, laborum, soluta fugit, officia excepturi voluptatem laudantium eligendi illo!</h2>
+       <h1 className="title">What is Agramith?</h1>
+       <h2 className="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur reprehenderit aliquam, rem corporis aliquid, quis cumque quam nisi praesentium animi a molestias est totam quod, molestiae repellendus odio harum repellat eligendi asperiores. Cum dolorum sint, architecto ipsum in perferendis accusantium magnam eaque vero aut. Est eligendi harum a, unde, expedita numquam similique voluptatum praesentium, dignissimos illum recusandae reprehenderit! Accusamus consectetur eos pariatur nihil reiciendis tenetur veniam repudiandae eligendi ea, perferendis qui quaerat in quisquam. Vero dolorem minus impedit delectus cumque necessitatibus perspiciatis in quibusdam voluptates et dolorum suscipit id odio unde tenetur, aspernatur eaque dignissimos quis accusantium! Quam, cum labore. </h2>
      </div>
    </section>
    </Layout>

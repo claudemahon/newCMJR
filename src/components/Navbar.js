@@ -6,7 +6,7 @@ const Navbar = () => {
         <>
         <nav className="navbar is-fixed-top">
             <div className="navbar-brand">
-                <Link className="navbar-item"to="#">CMJR Development</Link>
+                <Link className="navbar-item"to="#">Agramith</Link>
             </div>
         </nav>
         </>
