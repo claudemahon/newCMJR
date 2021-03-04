@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
 .bg-img {
     background: linear-gradient(0deg, #000000b9 30%, #ffffff44 100%), url('../images/min-original.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.title {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.subtitle {
+    font-family: 'Open Sans Condensed', sans-serif;
 }
