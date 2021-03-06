@@ -13,3 +13,12 @@
 .subtitle {
     font-family: 'Open Sans Condensed', sans-serif;
 }
+.container, .title {
+    font-size: large;
+}
+.container, .subtitle {
+    font-size: medium;
+}
+.main-title {
+    font-size: x-large;
+}
