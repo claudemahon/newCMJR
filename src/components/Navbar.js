@@ -4,9 +4,9 @@ import {Link} from 'gatsby';
 const Navbar = () => {
     return(
         <>
-        <nav className="navbar is-fixed-top">
+        <nav className="navbar transparent is-fixed-top">
             <div className="navbar-brand">
-                <Link className="navbar-item"to="#">Agramith</Link>
+                <Link className="navbar-item has-text-white navbar-title"to="#">Agramith</Link>
             </div>
         </nav>
         </>

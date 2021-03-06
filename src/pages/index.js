@@ -12,7 +12,7 @@ const IndexPage = () => (
     <section className="hero is-fullheight bg-img">
      <div className="hero-body">
        <div className="container has-text-centered">
-         <h2 className="main-title has-text-light">Making everyone a landlord</h2>
+         <h2 className="main-title has-text-light">Giving the little guys a piece of the pie</h2>
          {/* <h1 className="title has-text-light">Agramith</h1> */}
        </div>
      </div>
