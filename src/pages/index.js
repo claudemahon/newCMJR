@@ -12,16 +12,16 @@ const IndexPage = () => (
     <section className="hero is-fullheight bg-img">
      <div className="hero-body">
        <div className="container has-text-centered">
-         <h2 className="main-title has-text-light">Giving the little guys a piece of the pie, powered by smart contracts</h2>
-         {/* <h1 className="title has-text-light">Agramith</h1> */}
+         <h1 className="main-title has-text-light">Website Design, Ecommerce & Online Marketing with Remarkable Results</h1>
+         <h2 className="subtitle has-text-light">Connecting creativity, technology and commerce to drive brands and business growth.</h2>
        </div>
      </div>
    </section>
 
    <section className="section is-large">
      <div className="body has-text-centered">
-       <h1 className="title">Agramith</h1>
-       <h2 className="subtitle">Agramith is currently beign developed as both a Commercial and Residental real estate investing platform. How do we differ from other platforms? Agramith uses EOS Smart contracts to better protect investors from bad Investments. Smart Contracts harness the security, transparency and speed of the blockchain to help our investors maximize their moneys potential, all while ensuring that at anytime without notice, investors can audit Agramaith. We are currently planning a soft launch of the platform in the 4th quarther of 2021.Click here to find out more.  </h2>
+       <h1 className="title">About Us</h1>
+       <h2 className="subtitle">Hi there, Im Claude, owner and head developer at Agramith Media. A little back story, I started this company to help small businesses reach their true potential. For to long, many companies in my feild have been selling "Cookie Cutter Websites", with your "Best Intrest In Mind", but this is not true. At the end of the day, they want you in and out the door as quickly as possible, not with me. Beign a small business means that I also understand the needs of a small business and better address your needs. </h2>
      </div>
    </section>
    </Layout>
