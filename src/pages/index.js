@@ -1,8 +1,8 @@
 import React from "react"
 import 'bulma/css/bulma.css'
 // Page Components
-import Layout from '../components/Layout.js'
-import SEO from "../components/seo.js"
+import Layout from '../components/Layout'
+import SEO from "../components/seo"
 //Page Components
 
 const IndexPage = () => (
