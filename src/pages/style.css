@@ -27,8 +27,11 @@
     background-image: none;
 }
 /* This is were the navbar title is */
-.navbar-title {
+.nav-title {
 font-size: large;
 font-weight: bold;
+color: black; 
 }
-/* This is were the navbar title is */
+.footer {
+    padding: 10px 10px;
+}
