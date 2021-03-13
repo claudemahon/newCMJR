@@ -5,7 +5,7 @@ import 'bulma/css/bulma.css'
 const Footer = () => {
     return(
         <footer className="footer has-text-centered">
-            <div>Agramith ©</div>
+            <div>Claude Mahon ©</div>
         </footer>
     )
 }
