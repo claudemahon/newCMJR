@@ -3,7 +3,6 @@
 .bg-img {
     background: linear-gradient(0deg, #000000ee 30%, #ffffff27 100%), url('../images/main-image.jpg');
     background-position: center;
-    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 }
