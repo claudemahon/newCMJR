@@ -11,6 +11,7 @@
 }
 .subtitle {
     font-family: 'Open Sans Condensed', sans-serif;
+    padding-top: 20px;
 }
 .container, .title {
     font-size: large;
