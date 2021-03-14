@@ -9,7 +9,7 @@ const Projects = () => {
         <>
         <SEO title='Products'/>
         <Layout>
-            <section className="hero is-fullheight">
+            <section className="hero is-fullheight-with-navbar">
                 <div className="hero-body">
                     <div className="container">
                         <h1 className="main-title">Page in Development</h1>
