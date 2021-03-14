@@ -15,7 +15,7 @@ const Navbar = () => {
         <>
         <nav className="navbar is-fixed-top">
             <div className="navbar-brand">
-                <Link className="navbar-item nav-title"to="#">Claude Mahon</Link>
+                <Link className="navbar-item nav-title"to="/">Claude Mahon</Link>
                 <div role="button"
                     id="burger"
                     className="navbar-burger burger"
