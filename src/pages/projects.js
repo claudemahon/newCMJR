@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import 'bulma/css/bulma.css'
 import SEO from '../components/seo'
 import Layout from '../components/Layout'
